@@ -1,0 +1,2 @@
+[ 4408.131287] bitsmem: bench 64K kmalloc=6526ns vmalloc=23275ns | 1M kmalloc=404223ns vmalloc=160782ns
+[ 4599.450764] bitsmem: unloaded
